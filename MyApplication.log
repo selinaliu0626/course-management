@@ -1,0 +1,8 @@
+Oct 23, 2020 11:27:45 PM utilities.io.StudentIO readStudent
+FINEST: success to read Student JSON file.
+Oct 23, 2020 11:27:50 PM utilities.io.ClassroomIO readClassroom
+FINEST: success to read classroom JSON file.
+Oct 23, 2020 11:27:51 PM controllers.InputClassroomFormController <init>
+FINEST: Construct InputClassroomFormController.
+Oct 23, 2020 11:27:54 PM controllers.InputClassroomFormController saveData
+SEVERE: error: No room number specified
